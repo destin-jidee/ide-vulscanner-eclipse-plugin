@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site>
-   <feature url="features/ide.vulscanner.feature_1.0.1.202407221746.jar" id="ide.vulscanner.feature" version="1.0.1.202407221746"/>
-   <category-def name="IDE VulScanner" label="IDE VulScanner"/>
-</site>

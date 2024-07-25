@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/ide.vulscanner.feature_1.0.1.202407252125.jar" id="ide.vulscanner.feature" version="1.0.1.202407252125">
+      <category name="IDE VulScanner"/>
+   </feature>
+   <category-def name="IDE VulScanner" label="IDE VulScanner">
+      <description>
+         IDE VulScanner is an integrated vulnerability scanner for Eclipse IDE, part of OWASP&apos;s ideVulScanner project. It enhances the security of your development workflow by identifying and highlighting potential security vulnerabilities within your codebase in real-time. This feature is designed to seamlessly integrate into your Eclipse environment, providing security insights without disrupting your development process.
+      </description>
+   </category-def>
+</site>
